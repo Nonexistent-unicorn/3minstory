@@ -11,6 +11,40 @@ Birds of a Feather
 :: Start
 "One medium mocha frap, please" I say to the barista.
 
-She continues playing on her phone, completely oblivious of me. Of course, nobody can hear me. I'm a ghost after all.
-I look around the small cafe that i frequent often, as it is a great place to eavesdrop o nthe lives of the living.
+She continues playing on her phone, completely oblivious of me. Of course, nobody can hear me. I'm a ghost after all. I look around the small cafe that i frequent often, as it is a great place to eavesdrop on the lives of the living.
+
+There's a [[college student]] sitting by the window fervently typing away on their laptop.
+In the corner, a [[woman]] is angrily talking on her phone, her hands waving around aggressively.
+The last person I see is a [[man]] in a sharp business suit sipping his coffee and scrolling on his phone.
+
+Nothing is piquing my interest today. Just the same things as every other day.
+
+Suddenly the bell on the door jingles and a man walks in, his hair shining golden in the bright morning sunlight filtering in through the windows.
+I am immediately drawn to the aura he exudes. It is something I have never felt before and it is intriguing. The barista is already smiling and greeting him as he walks up to order.
+
+As he is about to pay, I slide onto the counter in front of him to get a better look at his face.
+He flinches and drops his card he was was handing to her.
+I stare at him, wide eyed in amazement. "Are you able to actually see me?!" I exclaim, but all he does is sheepishly pick up his card and finishes paying for his coffee.
+He goes to a nearby table to wait, and I sit on the table in front of him in a way that forces him to either look at me or out the window. He stares out the window intensely.
+
+
+:: college student
+I stroll over to the student, curious about what he is typing. I look over his shoulder to see he is typing a paper about some old dude. Boring.
+
+<<choice Start>> 
+:: woman
+I hover over the woman before sitting at her table. She is talking on the phone with what sounds to be a man.
+"-vorce, and if you aren't out of the house by the time I get back tomorrow, I swear to God James, I will burn all of your shi-"
+I get up, bored already with what seems to be the same argument I've heard countless times before.
+
+<<choice Start>>
+:: man
+My attention goes over to the sharply dressed businessman on his phone
+He's got an unnerving smirk on his face and I'm very curious what he's  looking at on his phone.
+I look over his shoulder and see his he is texting what seems to be a woman, then he is swiping at some pictures of some other women. 
+The ring glinting on his left hand suggests he is married. 
+Ah, straying away from your spouse I see. How scandalous, but nothing new.
+
+<<choice Start>>
+
 
