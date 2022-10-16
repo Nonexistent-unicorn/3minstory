@@ -19,6 +19,33 @@ There's a [[college student]] sitting by the window fervently typing away on the
 In the corner, a [[woman]] is angrily talking on her phone, her hands waving around aggressively.
 The last person I see is a [[man]] in a sharp business suit sipping his coffee and scrolling on his phone.
 
+:: college student
+I stroll over to the student, curious about what he is typing. I look over his shoulder to see he is typing a paper about some old dude. Boring.
+
+[[Start]]
+
+:: /college student
+
+:: woman
+I hover over the woman before sitting at her table. She is talking on the phone with what sounds to be a man.
+"-vorce, and if you aren't out of the house by the time I get back tomorrow, I swear to God James, I will burn all of your shi-"
+I get up, bored already with what seems to be the same argument I've heard countless times before.
+
+[[Start]]
+:: /woman
+
+:: man
+My attention goes over to the sharply dressed businessman on his phone
+He's got an unnerving smirk on his face and I'm very curious what he's  looking at on his phone.
+I look over his shoulder and see his he is texting what seems to be a woman, then he is swiping at some pictures of some other women. 
+The ring glinting on his left hand suggests he is married. 
+Ah, straying away from your spouse I see. How scandalous, but nothing new.
+
+[[Start]]
+
+:: /man
+
+
 Nothing is piquing my interest today. Just the same things as every other day.
 
 Suddenly the bell on the door jingles and a man walks in, his hair shining golden in the bright morning sunlight filtering in through the windows.
@@ -50,10 +77,7 @@ He lives very minimally, like he could leave at any moment. honestly, this isn't
 As I walk back into the main room I notice it's quiet all of a sudden. There is still a pot of sauce on the stove, but the heat is turned off. He must have left soon after I started looking around.
 
 I go to his office and knock the books over that are piled on the corner of his desk. I might as well read while I wait for him. Now that I can somewhat touch things, I want to see if I can control simple things, like turning pages in a book.
-I start reading a book about <<listbox "$book" autoselect>>
-    <<option Ancient history>>
-    <<option Ancient Architecture>>
-<</listbox>>
+I start reading a book about art.
 
 I don't remember the last time I read a book.
 
@@ -83,23 +107,3 @@ His bedroom is huge, with mostly black furniture. there are just two black pillo
 He doesn't have any personal items that aren't out of necessity besides all the books. What a strange man.
 
 [[Part 2]]
-
-:: college student
-I stroll over to the student, curious about what he is typing. I look over his shoulder to see he is typing a paper about some old dude. Boring.
-
-[[Start]]
-:: woman
-I hover over the woman before sitting at her table. She is talking on the phone with what sounds to be a man.
-"-vorce, and if you aren't out of the house by the time I get back tomorrow, I swear to God James, I will burn all of your shi-"
-I get up, bored already with what seems to be the same argument I've heard countless times before.
-
-[[Start]]
-:: man
-My attention goes over to the sharply dressed businessman on his phone
-He's got an unnerving smirk on his face and I'm very curious what he's  looking at on his phone.
-I look over his shoulder and see his he is texting what seems to be a woman, then he is swiping at some pictures of some other women. 
-The ring glinting on his left hand suggests he is married. 
-Ah, straying away from your spouse I see. How scandalous, but nothing new.
-
-[[Start]]
-<<break>>
