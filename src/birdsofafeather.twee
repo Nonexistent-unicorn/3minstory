@@ -39,7 +39,7 @@ After a few days of futile attempts to get him to acknowledge me, I start watchi
 I persistently try to get his aknowledgement whenever we are alone together. What can I say, I'm annoying as hell but atleast I'm considerate and don't pester him when he is working or talking to the living.
 Today, I decide that if I can't get his acknowledgement by pestering him then I will scare him like I did at the coffee shop.
 I sneak into his apartment while he is cooking and slowly make my way around the counter to stand behind him. Suddenly a loud crash makes both of us turn around and stare at the metal bowl clattering to the ground.
-I stare at it in amazement as I realize that I'm the one that knowcked it off the counter. That has never happened before. He quickly picks the bowl up and acts like nothing happened.
+I stare at it in amazement as I realize that I'm the one that knocked it off the counter. That has never happened before. He quickly picks the bowl up and acts like nothing happened.
 "Oh, come on!" I yell. "Not even that will get you to talk to me? I just touched something!" He just continues cooking, ignoring me once again.
 
 "Fine, I'll just snoop around your place then"
@@ -49,8 +49,15 @@ He lives very minimally, like he could leave at any moment. honestly, this isn't
 
 As I walk back into the main room I notice it's quiet all of a sudden. There is still a pot of sauce on the stove, but the heat is turned off. He must have left soon after I started looking around.
 
-I go to his office and knock the books over that are piled on the corner. I might as well read while I wait for him. Now that I can somewhat touch things, I want to see if I can control simple things, like turning pages in a book.
-I start reading ..........
+I go to his office and knock the books over that are piled on the corner of his desk. I might as well read while I wait for him. Now that I can somewhat touch things, I want to see if I can control simple things, like turning pages in a book.
+I start reading a book about <<listbox "$book" autoselect>>
+    <<option Ancient history>>
+    <<option Ancient Architecture>>
+<</listbox>>
+
+I don't remember the last time I read a book.
+
+These last few days I haven't felt bored or 
 
 :: bathroom
 Theres not much in his bathroom. He has one of everything, so I can tell he doesn't have a partner.
@@ -95,4 +102,4 @@ The ring glinting on his left hand suggests he is married.
 Ah, straying away from your spouse I see. How scandalous, but nothing new.
 
 [[Start]]
-
+<<break>>
