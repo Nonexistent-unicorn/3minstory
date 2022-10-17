@@ -13,11 +13,10 @@ Part 1
 
 "One medium mocha frap, please" I say to the barista.
 
-She continues playing on her phone, completely oblivious of me. Of course, nobody can hear me. I'm a ghost after all. I look around the small cafe that i frequent often, as it is a great place to eavesdrop on the lives of the living.
+She continues playing on her phone, completely oblivious of me. Of course, nobody can hear me. I'm a ghost after all. I look around the small cafe that I frequent often, as it is a great place to eavesdrop on the lives of the living.
 
 There's a [[college student]] sitting by the window fervently typing away on their laptop.
-In the corner, a [[woman]] is angrily talking on her phone, her hands waving around aggressively.
-The last person I see is a [[man]] in a sharp business suit sipping his coffee and scrolling on his phone.
+In the corner, a [[woman]] is angrily talking on her phone, her hands waving around aggressively. The last person I see is a [[man]] in a sharp business suit sipping his coffee and scrolling on his phone.
 
 Nothing is piquing my interest today. Just the same things as every other day.
 
@@ -28,7 +27,15 @@ As he is about to pay, I slide onto the counter in front of him to get a better 
 He flinches and drops his card he was handing to her.
 I stare at him, wide eyed in amazement. "Are you able to actually see me?!" I exclaim, but all he does is sheepishly pick up his card and finishes paying for his coffee.
 He goes to a nearby table to wait, and I sit on the table in front of him in a way that forces him to either look at me or out the window. He stares out the window intensely.
-I wave my hands in front of his face but he continues staring out the window, completely ignoring me. "You think I'm not used to people ignoring me?" I say. He doesn't even blink.
+completely ignoring me. "You think I'm not used to people ignoring me?" I say and then start <<listbox "$actions" autoselect>>
+    <<option "waving my hands around in">>
+    <<option "touching">>
+    <<option "getting up close to">>
+    
+<</listbox>> his face.
+
+He doesn't even blink.
+
 "Fine! Continue ignoring me, but you aren't going to get rid of me that easily." His eyebrows furrow slightly before he suddenly gets up, startling me.
 I thought he was going to get mad at me for a minute until he rushes over to the counter to grab his coffee from the barista, then rushes out the door. I sigh in exasperation and follow him.
 
@@ -71,13 +78,20 @@ He lives very minimally, like he could leave at any moment. honestly, this isn't
 As I walk back into the main room I notice it's quiet all of a sudden. There is still a pot of sauce on the stove, but the heat is turned off. He must have left soon after I started looking around.
 
 I go to his office and knock the books over that are piled on the corner of his desk. I might as well read while I wait for him. Now that I can somewhat touch things, I want to see if I can control simple things, like turning pages in a book.
-I start reading a book about architecture of ancient Southeast Asia.
+I start reading a book about the <<listbox "$book" autoselect>>
+    <<option "history">>
+    <<option "Architecture">>
+    <<option "Art">>
+    <<option "Culture">>
+    
+    
+<</listbox>> of ancient Southeast Asia.
 
 I don't remember the last time I read a book.
 
 I read until the light shining through the window slowly disappears.
 That man hasn't returned yet and I'm wondering if he is avoiding his apartment now.
-I think about what I should do. Should I [[go out and look for him]] or [[stay in his office until he gets back]] ?
+I think about what I should do. Should I [[go out and look for him]] or [[stay in his office until he gets back]]?
 
 :: go out and look for him
 I decide to go look for him because it's getting late and its my fault he isn't coming back. Maybe I should leave him alone, I hate the thought that he is uncomfortable around me.
@@ -88,11 +102,31 @@ I pause after that thought. Do I go there? I don't really remember, but it feels
 
 As I approach the park I can see him sitting on a bench staring off into space. I sit beside him and a silence falls between us.
 
+Suddenly he looks over at me and starts talking...to me?
+
+I wasn't expecting this development, I figured he would continue being hardheaded and ignoring me.
+
+"there is something I need to tell you" He say's and gets up from the bench. "Will you follow me?"
+
+I nod and follow him to a grassy, wooded area by the park. There is a nastalgic feeling about the place, like I've visited it often. The feeling is fleeting, like I can't quite grasp the memory of it.
+
 [[Part 3]]
 
 :: stay in his office until he gets back
 
-[[part 3]]
+I decide to wait for him in his office. I watch out the window at the people passing by below on the street. 
+It is a long time before he comes back, it's probably past midnight already.
+
+I hear his apartment door click and rush out to see him. He stares at me blankly.
+Wait, he's staring at me?!
+
+I probably have a big stupid grin right now, but I don't care. He's looking at me!
+
+We stare at each other in silence until he opens his mouth to speak. "I want to show you something, follow me." He says this and abruptly walks back out of his apartment.
+
+I follow him out to the street then to a grassy, slightly wooded area by the park. This area feels almost nostalgic, like I once visited it often. The memory is so distant that I can't get a firm grasp of it.
+
+[[Part 3]]
 
 :: bathroom
 Theres not much in his bathroom. He has one of everything, so I can tell he doesn't have a partner.
@@ -118,3 +152,14 @@ His bedroom is huge, with mostly black furniture. there are just two black pillo
 He doesn't have any personal items that aren't out of necessity besides all the books. What a strange man.
 
 :: Part 3
+
+He starts to speak again. "I'm sure this place feels familiar to you" I'm bewildered by this revelation, and nod.
+
+"It's because you used to come here when you were alive" he explains. I stare at him in shock.
+
+"What do you mean when I was alive? How do you know that!" I yell at him, he's making no sense. He ignores me for days and then brings me to the middle of the woods and tells me I used to frequent it before I died? 
+That isn't possible for him to know. I've been dead for much longer than he's been alive atleast. 
+
+He smiles sadly at me. "I knew you when you were alive, but you didn't know me, atleast not in a sense where you would have any memory of me" he continues explaining, "I was what you humans call a Guardian Angel, and I was assigned to protect you"
+
+I laugh at how crazy this sounds
