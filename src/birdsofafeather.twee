@@ -158,8 +158,84 @@ He starts to speak again. "I'm sure this place feels familiar to you" I'm bewild
 "It's because you used to come here when you were alive" he explains. I stare at him in shock.
 
 "What do you mean when I was alive? How do you know that!" I yell at him, he's making no sense. He ignores me for days and then brings me to the middle of the woods and tells me I used to frequent it before I died? 
-That isn't possible for him to know. I've been dead for much longer than he's been alive atleast. 
+That isn't possible for him to know. He barely looks 25. 
 
 He smiles sadly at me. "I knew you when you were alive, but you didn't know me, atleast not in a sense where you would have any memory of me" he continues explaining, "I was what you humans call a Guardian Angel, and I was assigned to protect you"
 
-I laugh at how crazy this sounds
+I laugh at how crazy this sounds until suddenly there are a huge pair of white wings before me.
+"You died in a car accident 40 years ago and I failed to save you, you weren't supposed to die then." He's almost crying now. 
+"I couldn't live with my guilt and couldn't move on to protecting another human, so I have been living among them, learning their cultures and history." 
+
+I <<listbox "$actions" autoselect>>
+    <<option "touch his wings">>
+    <<option "stare at him">>
+    <<option "start crying">>
+    
+ <</listbox>>. I don't know how to process this information. It's like a fog in my mind has been lifted. I have so many questions running through my head.
+
+ [[Why don't I have any memories?]] [[Why can I touch things all of a sudden?]] [[Why did he ignore me?]]
+
+:: Why don't I have any memories?
+
+ "So I have been wandering around for years not knowing who I was and unable to move on, because why? I died before I was supposed to?" I question him.
+
+ "Its possible that the shock of your soul being ripped prematurely from your body caused you to lose all your memories," he explains "but I can help you regain your memories and move on, I was with you since birth and know everything about you after all."
+
+[[Why can I touch things all of a sudden?]]
+
+:: Why can I touch things all of a sudden?
+
+"Why can I touch things suddenly" I ask.
+He hesitates for a second before answering me, "its possible that my divinity has resonated with your soul, as it was once a piece of me, and caused your incorporal form to become corperal enough to interact with things and possibly people."
+
+[[Why did he ignore me?]]
+
+:: Why did he ignore me?
+
+"Why did you ignore me for so long"
+
+He sighs "I was hoping you would give up or think you were mistaken. I forgot how stubborn you are"
+
+My emotions are all over the place and I don't know what I am supposed to feel right now. [[Happy]]? [[Sad]]? [[Mad]]?
+
+:: Happy
+
+I decide to be happy that he is finally talking to me. "So you aren't going to ignore me anymore? Can we be friends?"
+
+He smiles at me. "No, I'm so sorry for ignoring you, I won't ever do that again. I will help you regain your memories so that you can move on and find peace."
+
+[[Part 4]]
+
+:: Sad
+
+The fact that someone who could interact with me and even knew my past self was so close, yet chose to ignore me makes me incredibly sad.
+
+"I wish you had been truthful to me from the beginning" I tell him.
+He looks remorseful "I'm so sorry for ignoring you and keeping this from you, but I promise I won't ever ignore you again. I will help you regain your memories so that you can move on and find peace."
+
+[[Part 4]]
+
+:: Mad
+
+I get incredibly angry. "So what? You ignored me until my existence became a problem to this life you've built for yourself? Now that I know you're going to do everything you can to get rid of me?" I almost shout.
+
+He looks shocked. "Of course not! I don't want to get rid of you! These last few decades have been hell and I thought ignoring you would be best because I didn't want you to go through anymore hardships by reminding you of your past."
+"I'm so sorry for ignoring you and keeping this from you, but I promise I won't ever ignore you again. I will help you regain your memories so that you can move on and find peace."
+
+[[Part 4]]
+
+:: Part 4
+
+"I guess I can forgive you" I say with a shy smile. "After all, you are my guardian angel."
+
+He smiles broadly. "I have so many places and things to show you, and even more to tell you!" He exclaims excitedly.
+
+I laugh "First can you tell me what our names are. I have gone 40 years without even knowing my name, and I know nothing about you other than you being an angel."
+
+He looks sheepish. "You can call me <<textbox "$his name" Name>>. Your name is <<textbox "$my name" Name>>"
+
+I smile widely, excited to finally know something that I've been pondering for decades. "Lets go back to your apartment now! I want to finish reading that book."
+
+I look forward to the new adventures I will go on with him. A ghost with no memories, and an angel with too many. What a lonely pair we make, like two birds of a feather.
+
+End.
